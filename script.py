@@ -18,8 +18,8 @@ seconds = 60 * int(minutes)
 percent=os.getenv('PERCENT')
 
 # Replace with your actual values
-api_id = '29822273'
-api_hash = 'a5f85b06b7f821005a4a2891be886848'
+api_id = 'api_id'
+api_hash = 'api_hash'
 bot_username = 'BananaGunSniper_bot'
 cancel_called = False
 token_address = None  # Variable to store the token address
